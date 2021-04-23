@@ -1,6 +1,6 @@
 # Accordion Block
 
-Simple Accordion component plugin for GrapesJS
+Simple Accordion component plugin for GrapesJS..
 
 
 [Demo](http://grapesjs.com/demo.html)
